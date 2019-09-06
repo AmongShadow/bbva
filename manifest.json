@@ -1,0 +1,7 @@
+{
+  "name": "bbva",
+  "short_name": "bbva",
+  "description": "Ejercicio",
+  "start_url": "/",
+  "display": "standalone"
+}
